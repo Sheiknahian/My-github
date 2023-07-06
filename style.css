@@ -1,0 +1,12 @@
+.H1{
+    text-decoration: double line-through;
+    color: blue; text-align: center;
+    padding: 20px; background-color: white; border: solid 10px 10px; font-size: 50px;
+    box-shadow: 10px 10px 20px blueviolet;
+    font-family: 'Courier New', Courier,monospace; 
+    display: flex;          
+    }
+
+.btn{
+    cursor: pointer;
+}
